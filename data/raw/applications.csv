@@ -1,0 +1,101 @@
+Application_ID,Application_Name,Business_Unit_ID,Criticality,Application_Owner,Environment,Application_Type,Target_RTO_Hours,Target_RPO_Hours
+APP001,Payment Gateway,BU001,High,Finance IT Team,Development,Enterprise Software,8,2.0
+APP002,Core Banking System,BU001,Medium,Finance IT Team,Production,Database,24,8.0
+APP003,Financial Reporting,BU001,High,Finance IT Team,Production,Cloud Service,8,2.0
+APP004,Payroll Processing,BU001,High,Finance IT Team,Production,Enterprise Software,8,2.0
+APP005,Accounts Payable,BU001,Critical,Finance IT Team,Development,Cloud Service,4,0.5
+APP006,Tax Management,BU001,Low,Finance IT Team,Production,Cloud Service,72,24.0
+APP007,Treasury Management,BU001,High,Finance IT Team,Production,Database,8,2.0
+APP008,Invoice Processing,BU001,Critical,Finance IT Team,Production,Enterprise Software,4,0.5
+APP009,Budget Planning,BU001,Medium,Finance IT Team,Production,Cloud Service,24,8.0
+APP010,Expense Management,BU001,Low,Finance IT Team,Production,Database,72,24.0
+APP011,Employee Portal,BU002,Medium,Human Resources IT Team,Production,Enterprise Software,24,8.0
+APP012,Recruitment System,BU002,Low,Human Resources IT Team,Production,Web Application,72,24.0
+APP013,HR Management System,BU002,Medium,Human Resources IT Team,Production,Enterprise Software,24,8.0
+APP014,Attendance Tracker,BU002,Critical,Human Resources IT Team,Development,Database,4,0.5
+APP015,Performance Management,BU002,Low,Human Resources IT Team,Production,Web Application,72,24.0
+APP016,Training Portal,BU002,High,Human Resources IT Team,Production,Cloud Service,8,2.0
+APP017,Employee Benefits,BU002,Critical,Human Resources IT Team,Production,Enterprise Software,4,0.5
+APP018,Leave Management,BU002,High,Human Resources IT Team,Production,Database,8,2.0
+APP019,Talent Management,BU002,Medium,Human Resources IT Team,Production,Database,24,8.0
+APP020,HR Analytics,BU002,High,Human Resources IT Team,Production,Web Application,8,2.0
+APP021,Cloud Infrastructure,BU003,Low,Information Technology IT Team,Staging,Database,72,24.0
+APP022,Network Management,BU003,High,Information Technology IT Team,Development,Enterprise Software,8,2.0
+APP023,Identity Management,BU003,Low,Information Technology IT Team,Production,Enterprise Software,72,24.0
+APP024,Database Platform,BU003,Medium,Information Technology IT Team,Development,Web Application,24,8.0
+APP025,IT Service Management,BU003,High,Information Technology IT Team,Production,Web Application,8,2.0
+APP026,Backup Management,BU003,Medium,Information Technology IT Team,Development,Cloud Service,24,8.0
+APP027,Security Monitoring,BU003,Medium,Information Technology IT Team,Production,Enterprise Software,24,8.0
+APP028,DevOps Platform,BU003,High,Information Technology IT Team,Production,Web Application,8,2.0
+APP029,Enterprise API Gateway,BU003,Medium,Information Technology IT Team,Production,Cloud Service,24,8.0
+APP030,Data Warehouse,BU003,Critical,Information Technology IT Team,Production,Cloud Service,4,0.5
+APP031,Order Management,BU004,Medium,Operations IT Team,Staging,Web Application,24,8.0
+APP032,Operations Dashboard,BU004,Low,Operations IT Team,Production,Cloud Service,72,24.0
+APP033,Workflow Automation,BU004,Low,Operations IT Team,Production,Database,72,24.0
+APP034,Process Monitoring,BU004,Critical,Operations IT Team,Production,Database,4,0.5
+APP035,Production Management,BU004,High,Operations IT Team,Staging,Cloud Service,8,2.0
+APP036,Quality Control,BU004,High,Operations IT Team,Production,Enterprise Software,8,2.0
+APP037,Resource Planning,BU004,Critical,Operations IT Team,Staging,Web Application,4,0.5
+APP038,Logistics Management,BU004,Medium,Operations IT Team,Production,Database,24,8.0
+APP039,Facility Management,BU004,Medium,Operations IT Team,Production,Enterprise Software,24,8.0
+APP040,Operations Reporting,BU004,Critical,Operations IT Team,Production,Enterprise Software,4,0.5
+APP041,Customer CRM,BU005,Critical,Customer Experience IT Team,Production,Cloud Service,4,0.5
+APP042,Customer Support Portal,BU005,Medium,Customer Experience IT Team,Production,Web Application,24,8.0
+APP043,Feedback Management,BU005,High,Customer Experience IT Team,Production,Enterprise Software,8,2.0
+APP044,Contact Centre,BU005,High,Customer Experience IT Team,Development,Enterprise Software,8,2.0
+APP045,Customer Data Platform,BU005,High,Customer Experience IT Team,Production,Database,8,2.0
+APP046,Complaint Management,BU005,Medium,Customer Experience IT Team,Production,Web Application,24,8.0
+APP047,Loyalty Management,BU005,Low,Customer Experience IT Team,Staging,Cloud Service,72,24.0
+APP048,Service Booking,BU005,High,Customer Experience IT Team,Staging,Cloud Service,8,2.0
+APP049,Customer Analytics,BU005,Low,Customer Experience IT Team,Staging,Enterprise Software,72,24.0
+APP050,Chatbot Platform,BU005,Low,Customer Experience IT Team,Production,Enterprise Software,72,24.0
+APP051,Sales Management,BU006,High,Sales IT Team,Staging,Web Application,8,2.0
+APP052,Lead Management,BU006,High,Sales IT Team,Production,Enterprise Software,8,2.0
+APP053,Sales Analytics,BU006,High,Sales IT Team,Production,Enterprise Software,8,2.0
+APP054,Partner Portal,BU006,High,Sales IT Team,Production,Enterprise Software,8,2.0
+APP055,Quotation System,BU006,High,Sales IT Team,Production,Web Application,8,2.0
+APP056,Contract Management,BU006,High,Sales IT Team,Production,Database,8,2.0
+APP057,Sales Forecasting,BU006,Low,Sales IT Team,Production,Database,72,24.0
+APP058,Order Tracking,BU006,Medium,Sales IT Team,Production,Cloud Service,24,8.0
+APP059,Customer Pipeline,BU006,Critical,Sales IT Team,Production,Database,4,0.5
+APP060,Commission Management,BU006,High,Sales IT Team,Production,Cloud Service,8,2.0
+APP061,Compliance Monitoring,BU007,Low,Legal and Compliance IT Team,Production,Database,72,24.0
+APP062,Legal Case Management,BU007,Medium,Legal and Compliance IT Team,Production,Database,24,8.0
+APP063,Regulatory Reporting,BU007,High,Legal and Compliance IT Team,Production,Enterprise Software,8,2.0
+APP064,Policy Management,BU007,High,Legal and Compliance IT Team,Production,Database,8,2.0
+APP065,Audit Management,BU007,High,Legal and Compliance IT Team,Production,Database,8,2.0
+APP066,Contract Repository,BU007,High,Legal and Compliance IT Team,Staging,Cloud Service,8,2.0
+APP067,Data Privacy Management,BU007,Low,Legal and Compliance IT Team,Production,Database,72,24.0
+APP068,Document Control,BU007,Medium,Legal and Compliance IT Team,Staging,Cloud Service,24,8.0
+APP069,Legal Research Portal,BU007,Medium,Legal and Compliance IT Team,Production,Enterprise Software,24,8.0
+APP070,Compliance Tracker,BU007,Low,Legal and Compliance IT Team,Production,Enterprise Software,72,24.0
+APP071,Enterprise Risk Platform,BU008,High,Risk Management IT Team,Production,Cloud Service,8,2.0
+APP072,Risk Assessment Tool,BU008,Medium,Risk Management IT Team,Staging,Enterprise Software,24,8.0
+APP073,Fraud Detection System,BU008,High,Risk Management IT Team,Production,Enterprise Software,8,2.0
+APP074,Risk Reporting,BU008,Medium,Risk Management IT Team,Production,Enterprise Software,24,8.0
+APP075,Business Continuity Platform,BU008,Medium,Risk Management IT Team,Staging,Web Application,24,8.0
+APP076,Control Monitoring,BU008,Medium,Risk Management IT Team,Production,Web Application,24,8.0
+APP077,Third Party Risk System,BU008,Critical,Risk Management IT Team,Staging,Web Application,4,0.5
+APP078,Incident Risk Tracker,BU008,Low,Risk Management IT Team,Production,Web Application,72,24.0
+APP079,Governance Portal,BU008,High,Risk Management IT Team,Staging,Enterprise Software,8,2.0
+APP080,Risk Analytics,BU008,Low,Risk Management IT Team,Production,Web Application,72,24.0
+APP081,Inventory Management,BU009,Medium,Supply Chain IT Team,Production,Cloud Service,24,8.0
+APP082,Warehouse Management,BU009,Medium,Supply Chain IT Team,Production,Database,24,8.0
+APP083,Supplier Management,BU009,Critical,Supply Chain IT Team,Production,Enterprise Software,4,0.5
+APP084,Procurement System,BU009,Low,Supply Chain IT Team,Production,Database,72,24.0
+APP085,Fleet Management,BU009,Medium,Supply Chain IT Team,Production,Cloud Service,24,8.0
+APP086,Supply Chain Analytics,BU009,Low,Supply Chain IT Team,Production,Cloud Service,72,24.0
+APP087,Shipment Tracking,BU009,High,Supply Chain IT Team,Production,Cloud Service,8,2.0
+APP088,Demand Forecasting,BU009,High,Supply Chain IT Team,Staging,Enterprise Software,8,2.0
+APP089,Vendor Portal,BU009,Medium,Supply Chain IT Team,Production,Cloud Service,24,8.0
+APP090,Distribution Management,BU009,Medium,Supply Chain IT Team,Production,Database,24,8.0
+APP091,Marketing Analytics,BU010,High,Marketing IT Team,Development,Web Application,8,2.0
+APP092,Campaign Management,BU010,Medium,Marketing IT Team,Development,Enterprise Software,24,8.0
+APP093,Social Media Platform,BU010,Medium,Marketing IT Team,Production,Cloud Service,24,8.0
+APP094,Email Marketing,BU010,Medium,Marketing IT Team,Staging,Cloud Service,24,8.0
+APP095,Content Management,BU010,Medium,Marketing IT Team,Production,Enterprise Software,24,8.0
+APP096,Brand Monitoring,BU010,Medium,Marketing IT Team,Production,Cloud Service,24,8.0
+APP097,Marketing Automation,BU010,Low,Marketing IT Team,Development,Web Application,72,24.0
+APP098,Digital Advertising,BU010,Low,Marketing IT Team,Staging,Web Application,72,24.0
+APP099,Market Research Portal,BU010,Low,Marketing IT Team,Production,Web Application,72,24.0
+APP100,SEO Analytics,BU010,Medium,Marketing IT Team,Development,Cloud Service,24,8.0

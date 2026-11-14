@@ -1,0 +1,151 @@
+Incident_ID,Application_ID,Incident_Date,Incident_Type,Severity,Downtime_Hours,Financial_Impact_INR,DR_Activated,Incident_Status
+INC0001,APP034,2025-11-30,Data Breach,Low,1.7,8500.0,Yes,Resolved
+INC0002,APP051,2025-07-07,Cloud Service Outage,High,19.08,572400.0,No,Resolved
+INC0003,APP062,2025-11-12,Data Breach,Low,2.47,12350.0,Yes,Resolved
+INC0004,APP044,2025-04-26,Cloud Service Outage,High,21.57,647100.0,Yes,Resolved
+INC0005,APP006,2025-05-18,Cloud Service Outage,Medium,7.15,107250.0,Yes,Resolved
+INC0006,APP009,2025-03-13,Cyberattack,Medium,3.8,57000.0,Yes,Resolved
+INC0007,APP002,2025-05-18,Server Failure,Critical,33.74,1687000.0,Yes,Resolved
+INC0008,APP089,2025-03-27,Cyberattack,High,14.69,440700.0,Yes,Resolved
+INC0009,APP013,2025-06-25,Database Outage,High,8.53,255900.0,Yes,Resolved
+INC0010,APP099,2025-04-25,Cyberattack,High,8.95,268500.0,No,Under Investigation
+INC0011,APP065,2025-09-17,Cloud Service Outage,High,18.82,564600.0,Yes,Under Investigation
+INC0012,APP068,2025-10-12,Cyberattack,Low,1.39,6950.0,No,Resolved
+INC0013,APP043,2025-08-22,Database Outage,Medium,3.19,47850.0,Yes,Resolved
+INC0014,APP002,2025-03-23,Network Disruption,High,21.85,655500.0,No,Under Investigation
+INC0015,APP028,2025-01-27,Cloud Service Outage,High,22.87,686100.0,Yes,Resolved
+INC0016,APP027,2025-08-23,Data Breach,High,10.23,306900.0,Yes,Resolved
+INC0017,APP062,2025-01-16,Database Outage,Medium,4.74,71100.0,Yes,Resolved
+INC0018,APP046,2025-10-01,Database Outage,Medium,4.1,61500.0,Yes,Resolved
+INC0019,APP060,2025-06-03,Data Breach,Low,1.58,7900.0,No,Resolved
+INC0020,APP026,2025-07-17,Cyberattack,Medium,3.8,57000.0,Yes,Resolved
+INC0021,APP021,2025-02-16,Network Disruption,Medium,6.43,96450.0,Yes,Open
+INC0022,APP005,2025-10-15,Cloud Service Outage,Medium,7.2,108000.0,Yes,Open
+INC0023,APP066,2025-05-13,Cyberattack,Medium,7.62,114300.0,Yes,Resolved
+INC0024,APP092,2025-12-20,Database Outage,Medium,6.77,101550.0,Yes,Resolved
+INC0025,APP060,2025-05-04,Server Failure,High,15.74,472200.0,Yes,Under Investigation
+INC0026,APP050,2025-02-25,Cloud Service Outage,Low,2.17,10850.0,Yes,Under Investigation
+INC0027,APP060,2025-04-22,Cyberattack,High,15.25,457500.0,No,Resolved
+INC0028,APP065,2025-12-10,Cloud Service Outage,Critical,61.29,3064500.0,Yes,Resolved
+INC0029,APP082,2025-01-13,Data Breach,Critical,35.98,1799000.0,Yes,Under Investigation
+INC0030,APP068,2025-10-20,Database Outage,Low,1.24,6200.0,Yes,Resolved
+INC0031,APP055,2025-03-02,Data Breach,Medium,3.05,45750.0,No,Resolved
+INC0032,APP068,2025-05-25,Database Outage,Critical,26.25,1312500.0,Yes,Open
+INC0033,APP071,2025-08-25,Cyberattack,Medium,7.58,113700.0,No,Under Investigation
+INC0034,APP001,2025-04-26,Cyberattack,Low,0.78,3900.0,Yes,Resolved
+INC0035,APP029,2025-03-30,Server Failure,Low,2.99,14950.0,Yes,Resolved
+INC0036,APP043,2025-10-05,Server Failure,Medium,3.43,51450.0,Yes,Resolved
+INC0037,APP037,2025-11-05,Cyberattack,Medium,7.71,115650.0,Yes,Open
+INC0038,APP013,2025-07-19,Cloud Service Outage,Critical,32.5,1625000.0,Yes,Resolved
+INC0039,APP080,2025-07-27,Cloud Service Outage,Medium,5.26,78900.0,Yes,Resolved
+INC0040,APP040,2025-03-06,Cloud Service Outage,Critical,67.54,3377000.0,No,Resolved
+INC0041,APP054,2025-05-17,Server Failure,Low,2.12,10600.0,Yes,Open
+INC0042,APP094,2025-08-03,Cloud Service Outage,High,10.35,310500.0,Yes,Resolved
+INC0043,APP010,2025-03-30,Cloud Service Outage,Medium,5.37,80550.0,Yes,Resolved
+INC0044,APP056,2025-11-15,Cyberattack,Medium,3.34,50100.0,Yes,Resolved
+INC0045,APP008,2025-03-20,Database Outage,Medium,6.88,103200.0,Yes,Resolved
+INC0046,APP077,2025-09-04,Database Outage,Low,1.29,6450.0,Yes,Resolved
+INC0047,APP083,2025-12-22,Cloud Service Outage,Critical,48.75,2437500.0,Yes,Resolved
+INC0048,APP024,2025-07-08,Network Disruption,Medium,6.62,99300.0,No,Resolved
+INC0049,APP029,2025-07-07,Cyberattack,High,10.02,300600.0,Yes,Resolved
+INC0050,APP069,2025-04-26,Data Breach,Medium,4.46,66900.0,No,Resolved
+INC0051,APP033,2025-02-18,Cyberattack,Critical,54.52,2726000.0,No,Resolved
+INC0052,APP012,2025-01-17,Cloud Service Outage,Medium,7.95,119250.0,Yes,Under Investigation
+INC0053,APP011,2025-11-22,Server Failure,Medium,4.98,74700.0,Yes,Resolved
+INC0054,APP083,2025-04-01,Cloud Service Outage,Low,2.82,14100.0,No,Under Investigation
+INC0055,APP082,2025-02-18,Cloud Service Outage,High,12.99,389700.0,Yes,Open
+INC0056,APP095,2025-03-07,Server Failure,High,17.26,517800.0,Yes,Resolved
+INC0057,APP072,2025-02-18,Data Breach,Medium,5.55,83250.0,Yes,Resolved
+INC0058,APP061,2025-09-13,Database Outage,High,15.13,453900.0,Yes,Resolved
+INC0059,APP087,2025-09-19,Server Failure,Medium,7.57,113550.0,Yes,Resolved
+INC0060,APP030,2025-03-10,Database Outage,Critical,31.1,1555000.0,No,Resolved
+INC0061,APP044,2025-04-03,Network Disruption,Critical,48.65,2432500.0,No,Resolved
+INC0062,APP059,2025-09-28,Network Disruption,Medium,3.39,50850.0,Yes,Resolved
+INC0063,APP057,2025-04-26,Data Breach,Critical,49.04,2452000.0,Yes,Open
+INC0064,APP096,2025-06-04,Cyberattack,Low,2.57,12850.0,Yes,Resolved
+INC0065,APP088,2025-02-24,Server Failure,Low,1.8,9000.0,Yes,Resolved
+INC0066,APP092,2025-03-11,Database Outage,Medium,5.45,81750.0,Yes,Resolved
+INC0067,APP092,2025-02-04,Network Disruption,Critical,64.37,3218500.0,Yes,Under Investigation
+INC0068,APP093,2025-01-08,Database Outage,High,8.96,268800.0,Yes,Under Investigation
+INC0069,APP053,2025-11-23,Cloud Service Outage,Medium,5.93,88950.0,Yes,Resolved
+INC0070,APP016,2025-03-03,Data Breach,Medium,5.98,89700.0,Yes,Resolved
+INC0071,APP099,2025-04-09,Data Breach,Low,0.78,3900.0,Yes,Resolved
+INC0072,APP057,2025-04-15,Cyberattack,Low,2.42,12100.0,Yes,Resolved
+INC0073,APP090,2025-09-25,Network Disruption,Medium,5.23,78450.0,Yes,Resolved
+INC0074,APP058,2025-07-26,Database Outage,Critical,57.62,2881000.0,Yes,Resolved
+INC0075,APP003,2025-07-23,Data Breach,High,12.41,372300.0,No,Open
+INC0076,APP004,2025-03-09,Network Disruption,Medium,4.99,74850.0,Yes,Resolved
+INC0077,APP020,2025-02-25,Server Failure,High,14.32,429600.0,Yes,Resolved
+INC0078,APP076,2025-07-05,Database Outage,Low,0.98,4900.0,Yes,Resolved
+INC0079,APP055,2025-09-11,Data Breach,High,10.41,312300.0,Yes,Resolved
+INC0080,APP002,2025-02-15,Cyberattack,Low,2.68,13400.0,Yes,Resolved
+INC0081,APP017,2025-03-28,Database Outage,Medium,7.71,115650.0,Yes,Resolved
+INC0082,APP002,2025-07-29,Server Failure,Medium,6.25,93750.0,No,Resolved
+INC0083,APP053,2025-06-24,Cloud Service Outage,Medium,3.25,48750.0,Yes,Under Investigation
+INC0084,APP004,2025-08-16,Cyberattack,Medium,7.66,114900.0,Yes,Resolved
+INC0085,APP096,2025-08-11,Server Failure,High,22.11,663300.0,Yes,Resolved
+INC0086,APP010,2025-07-26,Server Failure,Medium,3.57,53550.0,Yes,Resolved
+INC0087,APP006,2025-08-16,Database Outage,Low,2.18,10900.0,No,Resolved
+INC0088,APP086,2025-07-27,Network Disruption,Low,2.71,13550.0,No,Resolved
+INC0089,APP055,2025-12-21,Data Breach,Medium,3.26,48900.0,Yes,Resolved
+INC0090,APP009,2025-08-10,Server Failure,High,22.61,678300.0,No,Resolved
+INC0091,APP027,2025-01-17,Server Failure,High,14.37,431100.0,Yes,Resolved
+INC0092,APP003,2025-01-18,Network Disruption,High,21.61,648300.0,Yes,Resolved
+INC0093,APP066,2025-11-23,Data Breach,Critical,58.59,2929500.0,No,Resolved
+INC0094,APP032,2025-05-15,Data Breach,High,22.11,663300.0,Yes,Open
+INC0095,APP091,2025-04-08,Data Breach,Medium,5.09,76350.0,Yes,Open
+INC0096,APP048,2025-02-02,Network Disruption,Medium,7.45,111750.0,No,Resolved
+INC0097,APP029,2025-08-15,Server Failure,Low,0.79,3950.0,Yes,Under Investigation
+INC0098,APP091,2025-11-29,Network Disruption,Medium,5.26,78900.0,Yes,Resolved
+INC0099,APP027,2025-12-09,Server Failure,High,12.45,373500.0,Yes,Resolved
+INC0100,APP055,2025-09-03,Cyberattack,Low,1.8,9000.0,Yes,Resolved
+INC0101,APP061,2025-10-31,Cloud Service Outage,High,11.82,354600.0,Yes,Resolved
+INC0102,APP091,2025-02-03,Cyberattack,Low,0.92,4600.0,Yes,Resolved
+INC0103,APP030,2025-04-30,Cyberattack,Medium,5.53,82950.0,Yes,Resolved
+INC0104,APP092,2025-04-20,Database Outage,High,23.62,708600.0,Yes,Resolved
+INC0105,APP066,2025-02-17,Data Breach,Low,0.65,3250.0,Yes,Resolved
+INC0106,APP070,2025-01-16,Data Breach,High,8.09,242700.0,Yes,Resolved
+INC0107,APP096,2025-12-22,Cyberattack,Medium,4.7,70500.0,Yes,Under Investigation
+INC0108,APP036,2025-05-29,Database Outage,Medium,3.66,54900.0,Yes,Resolved
+INC0109,APP040,2025-04-20,Data Breach,Medium,6.57,98550.0,Yes,Open
+INC0110,APP024,2025-10-08,Server Failure,Critical,46.39,2319500.0,Yes,Resolved
+INC0111,APP086,2025-03-21,Data Breach,Medium,7.68,115200.0,Yes,Under Investigation
+INC0112,APP100,2025-07-21,Data Breach,High,15.09,452700.0,Yes,Under Investigation
+INC0113,APP013,2025-08-29,Database Outage,Critical,55.39,2769500.0,Yes,Under Investigation
+INC0114,APP049,2025-11-09,Cloud Service Outage,Critical,53.64,2682000.0,No,Resolved
+INC0115,APP094,2025-03-16,Cloud Service Outage,Low,0.66,3300.0,No,Resolved
+INC0116,APP054,2025-09-04,Database Outage,Medium,7.47,112050.0,Yes,Resolved
+INC0117,APP073,2025-04-21,Network Disruption,High,9.42,282600.0,Yes,Under Investigation
+INC0118,APP047,2025-05-04,Cloud Service Outage,High,14.33,429900.0,No,Resolved
+INC0119,APP100,2025-05-27,Cyberattack,Low,1.72,8600.0,Yes,Resolved
+INC0120,APP091,2025-03-28,Database Outage,Medium,5.72,85800.0,Yes,Resolved
+INC0121,APP099,2025-03-05,Network Disruption,High,21.41,642300.0,Yes,Resolved
+INC0122,APP004,2025-09-14,Cyberattack,Low,0.83,4150.0,Yes,Open
+INC0123,APP035,2025-09-19,Data Breach,Medium,4.01,60150.0,Yes,Resolved
+INC0124,APP007,2025-08-10,Cloud Service Outage,Medium,7.34,110100.0,Yes,Under Investigation
+INC0125,APP048,2025-01-16,Server Failure,Medium,6.05,90750.0,Yes,Resolved
+INC0126,APP044,2025-03-24,Cloud Service Outage,Medium,7.63,114450.0,Yes,Resolved
+INC0127,APP086,2025-08-14,Cloud Service Outage,Medium,7.83,117450.0,No,Under Investigation
+INC0128,APP041,2025-04-15,Network Disruption,Low,2.05,10250.0,Yes,Resolved
+INC0129,APP049,2025-04-12,Data Breach,Medium,5.12,76800.0,Yes,Resolved
+INC0130,APP003,2025-05-16,Network Disruption,Low,0.63,3150.0,No,Resolved
+INC0131,APP100,2025-02-13,Server Failure,High,15.47,464100.0,Yes,Resolved
+INC0132,APP034,2025-03-09,Network Disruption,Medium,5.61,84150.0,Yes,Resolved
+INC0133,APP051,2025-01-24,Server Failure,Medium,6.23,93450.0,Yes,Resolved
+INC0134,APP067,2025-12-21,Cloud Service Outage,Medium,4.03,60450.0,No,Under Investigation
+INC0135,APP007,2025-11-09,Data Breach,High,13.26,397800.0,Yes,Resolved
+INC0136,APP099,2025-12-03,Database Outage,High,12.11,363300.0,Yes,Resolved
+INC0137,APP012,2025-05-01,Data Breach,High,8.49,254700.0,No,Under Investigation
+INC0138,APP038,2025-07-06,Database Outage,Critical,53.56,2678000.0,Yes,Resolved
+INC0139,APP001,2025-01-22,Cyberattack,Critical,71.34,3567000.0,Yes,Resolved
+INC0140,APP025,2025-09-25,Network Disruption,Low,2.89,14450.0,Yes,Resolved
+INC0141,APP057,2025-09-07,Cyberattack,Low,1.68,8400.0,Yes,Under Investigation
+INC0142,APP040,2025-10-23,Cyberattack,High,15.77,473100.0,Yes,Under Investigation
+INC0143,APP037,2025-03-08,Server Failure,Medium,7.94,119100.0,Yes,Resolved
+INC0144,APP074,2025-04-15,Cyberattack,High,10.44,313200.0,No,Resolved
+INC0145,APP095,2025-09-25,Data Breach,High,10.48,314400.0,Yes,Resolved
+INC0146,APP095,2025-07-15,Data Breach,Low,2.04,10200.0,Yes,Resolved
+INC0147,APP092,2025-05-22,Cloud Service Outage,Medium,6.02,90300.0,No,Under Investigation
+INC0148,APP015,2025-10-27,Database Outage,High,20.03,600900.0,Yes,Resolved
+INC0149,APP042,2025-06-14,Data Breach,High,16.22,486600.0,Yes,Resolved
+INC0150,APP044,2025-03-08,Network Disruption,Medium,5.09,76350.0,Yes,Open

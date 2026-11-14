@@ -1,0 +1,5 @@
+Severity,Total_Incidents,Average_Downtime,Total_Financial_Impact
+Critical,19,50.01,47513000.0
+High,42,15.02,18922200.0
+Medium,58,5.68,4938750.0
+Low,31,1.72,266650.0

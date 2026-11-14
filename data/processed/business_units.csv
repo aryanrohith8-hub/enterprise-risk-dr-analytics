@@ -1,0 +1,11 @@
+Business_Unit_ID,Business_Unit_Name,Department_Head,Location,Unit_Type
+BU001,Finance,Finance Director,Mumbai,Business
+BU002,Human Resources,HR Director,Bangalore,Business
+BU003,Information Technology,Chief Technology Officer,Hyderabad,Technology
+BU004,Operations,Operations Director,Mumbai,Business
+BU005,Customer Experience,Customer Experience Head,Delhi,Business
+BU006,Sales,Sales Director,Pune,Business
+BU007,Legal and Compliance,Compliance Head,Mumbai,Control
+BU008,Risk Management,Chief Risk Officer,Bangalore,Control
+BU009,Supply Chain,Supply Chain Head,Chennai,Business
+BU010,Marketing,Marketing Director,Delhi,Business
